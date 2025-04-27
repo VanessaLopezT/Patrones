@@ -1,0 +1,11 @@
+Adapter_Enchufes\AdaptardorEnchufe_Adapter.class
+Adapter_Enchufes\Cliente.class
+Adapter_Enchufes\EnchufeDosPatas_Adaptee.class
+Adapter_Enchufes\EnchufeTresPatas_Target.class
+Adapter_Piezas\AdaptadorPiezaCuadrada.class
+Adapter_Piezas\ClienteAdapter.class
+Adapter_Piezas\PiezaCuadrada.class
+Adapter_Piezas\PiezaRedonda.class
+com\mycompany\patrones\Patrones.class
+Adapter_Piezas\HoyoRedondo.class
+Adapter_Enchufes\EnchufeNuevoTresPatas_Compatible.class
